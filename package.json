@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/fresets/eslint-config/issues"
   },
-  "homepage": "https://github.com/fresets/eslint-config#readme"
+  "homepage": "https://github.com/fresets/eslint-config#readme",
+  "devDependencies": {
+    "@types/eslint": "^8.4.5"
+  }
 }
