@@ -1,7 +1,7 @@
 {
   "name": "@fresets/eslint-config",
   "version": "1.0.0",
-  "description": "",
+  "description": "default eslint config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,13 @@
   "license": "ISC",
   "peerDependencies": {
     "eslint": ">= 3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fresets/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fresets/eslint-config/issues"
+  },
+  "homepage": "https://github.com/fresets/eslint-config#readme"
 }
